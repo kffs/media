@@ -1,0 +1,9 @@
+body{
+    background-color: blueviolet;
+    color: darkblue;
+}
+
+.btn{
+    border-color: black;
+    border-radius: 90px;
+}
